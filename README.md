@@ -1,20 +1,38 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm SuchDelay</h1>
 
-I'm tulip588 — a newbie dev.  
-Currently learning and building small projects with:
+<p align="center">
+  🧠 Beginner Developer | 🚀 Learning one step at a time
+</p>
 
+---
+
+### 🛠️ Tech I'm Learning:
 - 🐍 Python
 - 🌐 HTML & CSS
 - 🐙 Git & Bash
-- 📱 Basic Android Development
-
-> "Small steps every day."
+- 📱 Android Development (basics)
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuchDelay&show_icons=true&hide_title=true&theme=transparent)](https://github.com/SuchDelay)
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuchDelay&show_icons=true&hide_title=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuchDelay&theme=transparent" alt="GitHub Streak" />
+</p>
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuchDelay&theme=transparent)](https://git.io/streak-stats)
+### 📚 Currently Working On:
+- Building small Python projects
+- Improving my web development basics
+- Learning Git workflows
 
+---
+
+> "Small progress each day adds up to big results." 🌱
+
+---
