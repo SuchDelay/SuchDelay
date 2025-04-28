@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SuchDelay/SuchDelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm tulip588 — a newbie dev.  
+Currently learning and building small projects with:
 
-Here are some ideas to get you started:
+- 🐍 Python
+- 🌐 HTML & CSS
+- 🐙 Git & Bash
+- 📱 Basic Android Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Small steps every day."
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuchDelay&show_icons=true&hide_title=true&theme=transparent)](https://github.com/SuchDelay)
+
+
