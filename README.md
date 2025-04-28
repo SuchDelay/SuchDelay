@@ -14,4 +14,7 @@ Currently learning and building small projects with:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuchDelay&show_icons=true&hide_title=true&theme=transparent)](https://github.com/SuchDelay)
 
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuchDelay&theme=transparent)](https://git.io/streak-stats)
 
