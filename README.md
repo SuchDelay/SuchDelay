@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm SuchDelay</h1>
+<h1 align="center">Hi there, I'm Tulip588</h1>
 
 <p align="center">
-  🧠 Beginner Developer | 🚀 Learning one step at a time
+   beginner Developer | learning everyday
 </p>
 
 ---
 
-### 🛠️ Tech I'm Learning:
+### I'm Learning:
 - 🐍 Python
 - 🌐 HTML & CSS
 - 🐙 Git & Bash
@@ -14,7 +14,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuchDelay&show_icons=true&hide_title=true&theme=transparent" alt="GitHub Stats" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 📚 Currently Working On:
+### Currently Working On:
 - Building small Python projects
 - Improving my web development basics
 - Learning Git workflows
