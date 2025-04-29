@@ -6,7 +6,7 @@
 
 ---
 
-### I'm Learning:
+### Im Learning:
 - 🐍 Python
 - 🌐 HTML & CSS
 - 🐙 Git & Bash
