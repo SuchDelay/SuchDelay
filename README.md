@@ -10,10 +10,10 @@
 ---
 
 ```console
-SuchDelay@archbtw:~$ gitfetch
+Delay@archbtw:~$ gitfetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 SuchDelay@archbtw
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Delay@archbtw
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 18 years
@@ -101,18 +101,12 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <br/>
   </samp>
   </details>
-
- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Freelance+embedded+device+developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
-  
   
 -----
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
 
 ### Find me here
-
-[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to)
-[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.co)
 [![dev](https://skillicons.dev/icons?i=discord)](https://discord.com)
 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
