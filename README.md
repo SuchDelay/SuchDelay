@@ -10,7 +10,7 @@
 ---
 
 ```console
-mannu@archbtw:~$ gitfetch
+SuchDelay@archbtw:~$ gitfetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 SuchDelay@archbtw
