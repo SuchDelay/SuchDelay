@@ -40,7 +40,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ```
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>about</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
@@ -57,7 +57,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </details>
   
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary> GitHub Profile Stats</summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
@@ -92,7 +92,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </details>
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
+  <summary>Latest Activity Graph</summary>
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
