@@ -106,7 +106,5 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
 
-### Find me here
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com)
 
 
